@@ -1,6 +1,6 @@
 {
-  "name": "ARPADD",
-  "description": "ARPADD 202106 Learning",
+  "name": "ARPADD Demo Git",
+  "description": "ARPADD Demo Git 202106 Learning",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
